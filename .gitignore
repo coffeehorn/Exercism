@@ -12,3 +12,6 @@
 *.iws
 *.iml
 *.ipr
+
+### Node Modules ###
+node_modules/
