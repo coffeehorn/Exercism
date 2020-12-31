@@ -13,6 +13,9 @@
 *.iml
 *.ipr
 
+### Rider ###
+*.DotSettings.user
+
 ### Node Modules ###
 node_modules/
 
