@@ -13,6 +13,14 @@
 *.iml
 *.ipr
 
+### Xcode ###
+/*.xcodeproj
+
+### Swift ###
+.swiftpm/
+/.build
+/Packages
+
 ### C/C++ ###
 *.out
 cmake-build-debug/
