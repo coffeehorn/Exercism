@@ -16,6 +16,12 @@
 ### Rider ###
 *.DotSettings.user
 
+### Gradle ###
+.[Gg]radle/
+
+### Kotlin ###
+*[Bb]uild/
+
 ### Node Modules ###
 node_modules/
 
