@@ -13,6 +13,12 @@
 *.iml
 *.ipr
 
+### C/C++ ###
+*.out
+tests.out.dSYM/
+memcheck.out.dSYM/
+dockDockBuildParams.json
+
 ### Rider ###
 *.DotSettings.user
 
