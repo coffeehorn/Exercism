@@ -15,8 +15,11 @@
 
 ### C/C++ ###
 *.out
+cmake-build-debug/
 tests.out.dSYM/
 memcheck.out.dSYM/
+
+### dockDockBuild ###
 dockDockBuildParams.json
 
 ### Rider ###
