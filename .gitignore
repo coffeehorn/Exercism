@@ -35,7 +35,7 @@ venv/
 
 ### Gradle ###
 **/.[Gg]radle/
-**/[Ggradle/
+**/[Gg]radle/
 **/gradlew
 **/gradlew.bat
 
