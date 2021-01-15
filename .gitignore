@@ -30,14 +30,14 @@ memcheck.out.dSYM/
 ### python ###
 venv/
 
-### dockDockBuild ###
-dockDockBuildParams.json
-
 ### Rider ###
 *.DotSettings.user
 
 ### Gradle ###
-.[Gg]radle/
+**/.[Gg]radle/
+**/[Ggradle/
+**/gradlew
+**/gradlew.bat
 
 ### Cargo ###
 Cargo.lock
